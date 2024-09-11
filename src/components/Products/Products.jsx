@@ -60,9 +60,8 @@ const Products = () => {
           <h1 data-aos="fade-up" className="text-3xl font-bold">
             Products
           </h1>
-          <p data-aos="fade-up" className="text-xs text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
-            asperiores modi Sit asperiores modi
+          <p data-aos="fade-up" className= "text-sm  text-gray-400">
+          Join the ranks of satisfied customers who have made this products a top choice.
           </p>
         </div>
         {/* Button Section */}
