@@ -102,7 +102,7 @@ const Testimonials = () => {
                   </div>
                   <div className= "flex flex-col items-center gap-4">
                     <div className= "space-y-3">
-                      <p className= "text-xs text-gray-500 hover:text-lg">{data.text}</p>
+                      <p className= "text-xs text-gray-500 hover:text-l">{data.text}</p>
                       <h1 className= "text-xl font-bold text-black/80 dark:text-light dark:hover:text-primary">
                         {data.name}
                       </h1>
